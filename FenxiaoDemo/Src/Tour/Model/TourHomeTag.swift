@@ -24,6 +24,9 @@ struct TourHomeTag {
             return tags
         }
         
+        /**
+         * test git
+         */
         // 不可行
         // 修改subTags: ($0["sub_name"] as! Array)，解决
         tags = jsonArray.map {
