@@ -26,6 +26,7 @@ struct TourHomeTag {
         
         /**
          * test git
+         * test git 2--push using command line
          */
         // 不可行
         // 修改subTags: ($0["sub_name"] as! Array)，解决
